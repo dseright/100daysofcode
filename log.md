@@ -17,9 +17,9 @@
 
 **Thoughts**: Ugh, why are strings immutable in python. Caused me to hit a massive brick wall that took a bit of work to overcome. But I stayed the course and calmed myself down and thought through it. Was about to shelve it for the day when I tried out one more idea that seems to work. The IDE seems to be giving me some issues now though. I'll finish it off tomorrow.
 
-**Link(s) to work** 
-*["crack.py"](r1d1/crack.py)
-*["crack.c"](r1d1/crack.c)
+**Link(s) to work:** 
+* ["crack.py"](r1d1/crack.py)
+* ["crack.c"](r1d1/crack.c)
 
 
 
