@@ -29,5 +29,14 @@
 **Thoughts**: Reviewed some python principles. Don't really understand how this matrix is supposed to work. But the connections are slowly forming. Unfortunately I have some other things to get done so I'll have to be content with only an hour today.
 
 
+### Day 3: January 16, 2018 
 
+
+**Today's Progress**: CS50 pset6. Wrote psuedocode for similarities.
+
+**Thoughts**: I had no idea how to start at first, but I broke it down into a piece I thought I could manage and figured out how to do that. Played around with a test file to see how matrixes(list of lists) work in python. Good lesson in shaking off that overwhelmed feeling and getting to work.
+
+**Link(s) to work:** 
+* ["crack.py"](r1d1/crack.py)
+* ["crack.c"](r1d1/crack.c)
 
