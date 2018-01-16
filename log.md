@@ -21,6 +21,13 @@
 * ["crack.py"](r1d1/crack.py)
 * ["crack.c"](r1d1/crack.c)
 
+### Day 2: January 15, 2018 
+
+
+**Today's Progress**: CS50 pset6. Started work on similarities.
+
+**Thoughts**: Reviewed some python principles. Don't really understand how this matrix is supposed to work. But the connections are slowly forming. Unfortunately I have some other things to get done so I'll have to be content with only an hour today.
+
 
 
 
