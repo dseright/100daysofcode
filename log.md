@@ -36,7 +36,10 @@
 
 **Thoughts**: I had no idea how to start at first, but I broke it down into a piece I thought I could manage and figured out how to do that. Played around with a test file to see how matrixes(list of lists) work in python. Good lesson in shaking off that overwhelmed feeling and getting to work.
 
-**Link(s) to work:** 
-* ["crack.py"](r1d1/crack.py)
-* ["crack.c"](r1d1/crack.c)
 
+### Day 4: January 17, 2018 
+
+
+**Today's Progress**: CS50 pset6. Almost finished similarities algorithm.
+
+**Thoughts**: Really did not want to code today. And now I've done an hour more than I intended. I have something that barely functions, definitely some bugs I need to work out but I'm much further along than when I started. It's mostly figuring out this minimal values thing....and I think I fixed that bug. I had to try one more thing while writing this down. I should hopefully be onto the web aspect of the pset now.
