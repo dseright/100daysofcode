@@ -43,3 +43,10 @@
 **Today's Progress**: CS50 pset6. Almost finished similarities algorithm.
 
 **Thoughts**: Really did not want to code today. And now I've done an hour more than I intended. I have something that barely functions, definitely some bugs I need to work out but I'm much further along than when I started. It's mostly figuring out this minimal values thing....and I think I fixed that bug. I had to try one more thing while writing this down. I should hopefully be onto the web aspect of the pset now.
+
+### Day 5: January 18, 2018 
+
+
+**Today's Progress**: CS50 pset6. Got the matrix displaying on web using jinja2 and flask.
+
+**Thoughts**: Took a while to figure out what jinja2 was doing and how to get it to cooperate. But I picked through the docs and slowly it started to make sense. The A-ha moment came when I finally realized python loops are truly different and I wasn't iterating a number from 0 my counter was literally the character from the string I had told it to iterate over. If that makes any sense. I'm very tired. But I'm very happy I still put in my work before bed.
