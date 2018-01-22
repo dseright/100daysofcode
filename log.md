@@ -50,3 +50,24 @@
 **Today's Progress**: CS50 pset6. Got the matrix displaying on web using jinja2 and flask.
 
 **Thoughts**: Took a while to figure out what jinja2 was doing and how to get it to cooperate. But I picked through the docs and slowly it started to make sense. The A-ha moment came when I finally realized python loops are truly different and I wasn't iterating a number from 0 my counter was literally the character from the string I had told it to iterate over. If that makes any sense. I'm very tired. But I'm very happy I still put in my work before bed.
+
+
+### Day 6: January 19, 2018
+
+**Today's Progress**: Lecture 8 for CS50. Not much to report.
+
+**Thoughts**: Python and html and bootstrap and sql oh my.
+
+
+### Day 7: January 20, 2018
+
+**Today's Progress**: Started in on pset7. 
+
+**Thoughts**: Had to look over the distribution code for quite a while to figure out what was going on but it's starting to make sense. Lots of things going on with sql, bootstrap, python, and jinja2 all working together. But I'm catching on.
+
+
+### Day 8: January 21, 2018
+
+**Today's Progress**: Completed register route. 
+
+**Thoughts**: Hopefully that'll kind of work as a keystone so I have a much better idea of what I'm doing going forward. The blocks are falling into place. :) A few minor obstacles but nothing I couldn't work around.
