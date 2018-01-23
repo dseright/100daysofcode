@@ -71,3 +71,10 @@
 **Today's Progress**: Completed register route. 
 
 **Thoughts**: Hopefully that'll kind of work as a keystone so I have a much better idea of what I'm doing going forward. The blocks are falling into place. :) A few minor obstacles but nothing I couldn't work around.
+
+
+### Day 9: January 22, 2018
+
+**Today's Progress**: Completed quote route. 
+
+**Thoughts**: Went much smoother than the register route, even with jinja2 and what not. Little by little working through the specs.
