@@ -78,3 +78,9 @@
 **Today's Progress**: Completed quote route. 
 
 **Thoughts**: Went much smoother than the register route, even with jinja2 and what not. Little by little working through the specs.
+
+### Day 10: January 23, 2018
+
+**Today's Progress**: Completed buy and index routes.
+
+**Thoughts**: Made good progress. Just need the sell and history routes/pages now. And to fix a few things. Overall it's looking good and I'm understanding how things are getting pieced together.
