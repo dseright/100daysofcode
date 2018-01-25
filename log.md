@@ -84,3 +84,15 @@
 **Today's Progress**: Completed buy and index routes.
 
 **Thoughts**: Made good progress. Just need the sell and history routes/pages now. And to fix a few things. Overall it's looking good and I'm understanding how things are getting pieced together.
+
+### Day 11: January 24, 2018
+
+**Today's Progress**: Completed the sell route and modified the db to make history easier to implement.
+
+**Thoughts**: Sell route was not too difficult. And with the database changes history should be a breeze.
+
+### Day 12: January 25, 2018
+
+**Today's Progress**: Implemented history. Discovered critical bugs.
+
+**Thoughts**: Well it looks like I've got a bit more work to do. I was almost finished, until I realized how wrong my logic was. I hadn't tested well. Spent the next hour fixing those errors.
