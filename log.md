@@ -79,11 +79,13 @@
 
 **Thoughts**: Went much smoother than the register route, even with jinja2 and what not. Little by little working through the specs.
 
+
 ### Day 10: January 23, 2018
 
 **Today's Progress**: Completed buy and index routes.
 
 **Thoughts**: Made good progress. Just need the sell and history routes/pages now. And to fix a few things. Overall it's looking good and I'm understanding how things are getting pieced together.
+
 
 ### Day 11: January 24, 2018
 
@@ -91,8 +93,17 @@
 
 **Thoughts**: Sell route was not too difficult. And with the database changes history should be a breeze.
 
+
 ### Day 12: January 25, 2018
 
 **Today's Progress**: Implemented history. Discovered critical bugs.
 
 **Thoughts**: Well it looks like I've got a bit more work to do. I was almost finished, until I realized how wrong my logic was. I hadn't tested well. Spent the next hour fixing those errors.
+
+
+### Day 13: January 26, 2018
+
+**Today's Progress**: Finished bugs, added bonus features, fleshed out the css(bootstrap).
+
+**Thoughts**: CSS is super hard to edit without having a dynamic preview. Restarting the server everytime is way too much work. I'm sure there is an easier way. Regardless, the page looks nice enough and I like the functionality I added. I'm content with the finished product.
+
