@@ -107,3 +107,16 @@
 
 **Thoughts**: CSS is super hard to edit without having a dynamic preview. Restarting the server everytime is way too much work. I'm sure there is an easier way. Regardless, the page looks nice enough and I like the functionality I added. I'm content with the finished product.
 
+
+### Day 14: January 27, 2018
+
+**Today's Progress**: Lecture about javascript and jquery and ajax.
+
+**Thoughts**: A lot going on in this next problem set. Going to need to focus.
+
+
+### Day 15: Jaunary 28, 2018
+
+**Today's Progress**: These docs and distribution code.
+
+**Thoughts**: My head is spinning, but the understanding is coming. I can do this.
